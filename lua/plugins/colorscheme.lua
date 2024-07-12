@@ -1,10 +1,10 @@
 return {
-  "craftzdog/solarized-osaka.nvim",
+  "navarasu/onedark.nvim",
   lazy = true,
   priority = 1000,
   opts = function()
     return {
-      transparent = true,
+      transparent = false,
     }
   end,
 }
